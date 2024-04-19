@@ -1,6 +1,6 @@
 # Hi there, I'm Nushan Ediriwickrama! 👋
 
-A passionate Computer Engineering undergraduate from Sri Lanka.
+Computer Engineering undergraduate from Sri Lanka.
 
 ### 💻 Coding
 - **Languages:** ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white)
@@ -9,15 +9,16 @@ A passionate Computer Engineering undergraduate from Sri Lanka.
 
 ### 🌱 Currently Learning
 - MERN Stack
-- Computer Networking
+- SpringBoot
 
 ### 📫 How to Reach Me
-- Email: nushan.ediriwickrama@example.com
+- Email: eanushanhansana@gmail.com
 
 ### Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/nushan-ediriwickrama)
-- [GitHub](https://github.com/nushan-ediriwickrama)
+- [LinkedIn](www.linkedin.com/in/nushan-ediriwickrama-0278842b2)
+- [GitHub](https://github.com/nushan2000)
 - [Twitter](https://twitter.com/nushan_ed)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nushan-ediriwickrama&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nushan-ediriwickrama&layout=compact)
+[![](https://raw.githubusercontent.com/nushan2000/nushan2000/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/nushan2000/nushan2000/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
