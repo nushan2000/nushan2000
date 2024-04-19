@@ -19,6 +19,7 @@ Computer Engineering undergraduate from Sri Lanka.
 - [GitHub](https://github.com/nushan2000)
 - [Twitter](https://twitter.com/nushan_ed)
 
-[![](https://raw.githubusercontent.com/nushan2000/nushan2000/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/nushan2000/nushan2000/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/nushan2000/nushan2000/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/nushan2000)
+[![](https://raw.githubusercontent.com/nushan2000/nushan2000/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/nushan2000)
+
 
