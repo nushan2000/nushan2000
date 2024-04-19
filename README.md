@@ -1,28 +1,23 @@
-# Hey there, I'm Nushan Ediriwickrama! 👋
+# Hi there, I'm Nushan Ediriwickrama! 👋
 
-## About Me 🌟
-- 🎓 Computer Engineering student at the University of Ruhuna.
-- 💻 Passionate about building innovative tech solutions.
-- 🌱 Currently exploring the realms of web development and machine learning.
-- 📚 Constantly learning and evolving in the ever-changing world of technology.
+A passionate Computer Engineering undergraduate from Sri Lanka.
 
-## What I'm Working On 💼
-- 🚀 Building dynamic web applications using React.js and Flask.
-- 🤖 Exploring the possibilities of machine learning in various domains.
-- 🛠️ Creating standalone applications to solve real-world problems.
+### 💻 Coding
+- **Languages:** ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white)
+- **Frameworks/Libraries:** ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express&logoColor=white)
+- **Databases:** ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
 
-## Get in Touch 📫
-- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- 🐦 Follow me on [Twitter](https://twitter.com/yourhandle)
-- 📸 Check out my photography on [Instagram](https://www.instagram.com/yourhandle/)
+### 🌱 Currently Learning
+- MERN Stack
+- Computer Networking
 
-## Let's Collaborate! 🤝
-- 💡 Have an exciting project idea? Let's discuss and bring it to life!
-- 🔍 Looking for a teammate for your next hackathon? Count me in!
-- 🌟 Open to collaboration opportunities and always eager to learn from others.
+### 📫 How to Reach Me
+- Email: nushan.ediriwickrama@example.com
 
-## Thanks for Visiting! 🙏
-- ⭐️ Star my repositories if you find them helpful or interesting.
-- 📬 Feel free to reach out with any questions, feedback, or just to say hi!
+### Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/nushan-ediriwickrama)
+- [GitHub](https://github.com/nushan-ediriwickrama)
+- [Twitter](https://twitter.com/nushan_ed)
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nushan-ediriwickrama&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nushan-ediriwickrama&layout=compact)
