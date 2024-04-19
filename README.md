@@ -34,4 +34,4 @@ A passionate Computer Engineering undergraduate from Sri Lanka.
 
 ## 🏆 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nushan2000&layout=compact&theme=radical)
+![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=nushan2000&layout=compact&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=nushan2000&hide=html,css&layout=compact&theme=radical))
