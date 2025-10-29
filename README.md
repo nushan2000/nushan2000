@@ -5,7 +5,7 @@ A final-year **Computer Engineering** undergraduate from Sri Lanka, passionate a
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **software engineering** and **AI projects**, focusing on real-world applications.  
-- 🌱 I’m enhancing my skills in **MERN stack**, **Spring Boot**, and **machine learning**.  
+- 🌱 I’m enhancing my skills in **MERN stack**, **Spring Boot**, **AI agents**, and **machine learning**.  
 - 👯 I’m open to collaborating on **open-source projects**, AI initiatives, and innovative tech ideas.  
 - 💬 Ask me about **software development, AI, or web development**—I love sharing knowledge.  
 - 📫 How to reach me: [Email](mailto:eanushanhansana@gmail.com), [LinkedIn](https://www.linkedin.com/in/nushan-ediriwickrama-0278842b2)
@@ -41,6 +41,6 @@ A final-year **Computer Engineering** undergraduate from Sri Lanka, passionate a
 ## 💡 Projects & Experiments
 
 - **Software Engineering Projects:** MERN stack apps, Spring Boot APIs, full-stack systems.  
-- **AI Projects:** Machine learning models, deep learning experiments, and AI research prototypes.  
+- **AI Projects:** AI agents, Machine learning models, deep learning experiments, and AI research prototypes.  
 - **Open Source:** Contributions to web, backend, and AI-related repositories.
 
